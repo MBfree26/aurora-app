@@ -1,0 +1,1 @@
+This project seeks to create an Aurora tracker.
